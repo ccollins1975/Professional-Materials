@@ -1,0 +1,10 @@
+body {
+    /* background-color: darkcyan; */
+    background-image: url("../Images/double-bubble-outline.png");
+    font: 2em sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+#myPic {
+    height: 500px;
+}
